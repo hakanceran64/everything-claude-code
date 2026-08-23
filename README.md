@@ -1612,3 +1612,28 @@ MIT - Use freely, modify as needed, contribute back if you can.
 ---
 
 **Star this repo if it helps. Read both guides. Build something great.**
+
+## 📊 Kod İstatistikleri
+
+<!-- ceran-loc:start -->
+> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-08-23
+> Hariç: ceran-loc
+
+| Dosya | Kod | Yorum | Boş | Toplam |
+|---:|---:|---:|---:|---:|
+| 1.974 | **330.327** | 7.256 | 81.264 | 418.847 |
+
+| Uzantı | Kod | Yorum | Boş | Dosya | Pay |
+|---|---:|---:|---:|---:|---:|
+| `.md` | 200.141 | 34 | 63.131 | 1.444 | %60 |
+| `.js` | 61.863 | 4.446 | 9.918 | 257 | %18 |
+| `.rs` | 47.278 | 278 | 4.563 | 16 | %14 |
+| `.py` | 4.923 | 856 | 1.250 | 44 | %1 |
+| `.json` | 4.563 | 0 | 0 | 51 | %1 |
+| `.sh` | 3.492 | 714 | 679 | 29 | %1 |
+| `.txt` | 2.751 | 0 | 816 | 24 | %0 |
+| `.ts` | 1.645 | 530 | 350 | 17 | %0 |
+| `.mjs` | 951 | 183 | 176 | 9 | %0 |
+| `.yml` | 824 | 31 | 135 | 11 | %0 |
+| _diğer (9)_ | 1.896 | 184 | 246 | 72 | %0 |
+<!-- ceran-loc:end -->
