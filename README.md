@@ -1616,16 +1616,16 @@ MIT - Use freely, modify as needed, contribute back if you can.
 ## 📊 Kod İstatistikleri
 
 <!-- ceran-loc:start -->
-> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-08-23
+> Kaynak: `ceran-loc v1.3.0` · git (.gitignore uygulandı) · 2026-11-27
 > Hariç: ceran-loc
 
 | Dosya | Kod | Yorum | Boş | Toplam |
 |---:|---:|---:|---:|---:|
-| 1.974 | **330.327** | 7.256 | 81.264 | 418.847 |
+| 1.974 | **330.346** | 7.258 | 81.268 | 418.872 |
 
 | Uzantı | Kod | Yorum | Boş | Dosya | Pay |
 |---|---:|---:|---:|---:|---:|
-| `.md` | 200.141 | 34 | 63.131 | 1.444 | %60 |
+| `.md` | 200.160 | 36 | 63.135 | 1.444 | %60 |
 | `.js` | 61.863 | 4.446 | 9.918 | 257 | %18 |
 | `.rs` | 47.278 | 278 | 4.563 | 16 | %14 |
 | `.py` | 4.923 | 856 | 1.250 | 44 | %1 |
